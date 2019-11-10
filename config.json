@@ -1,0 +1,14 @@
+{
+    "paths":[
+        "D:\\Photos"
+    ],
+    "extensions":[
+        "jpg",
+        "JPG",
+        "jpeg",
+        "png",
+        "mpg",
+        "MPEG",
+        "MP4"
+    ]
+}
